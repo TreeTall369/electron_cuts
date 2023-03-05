@@ -85,56 +85,16 @@ body {
     padding: 10px;
     text-align: center;
   }
-  /* The Modal (background) */
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-  }
-  
-  /* Modal Content/Box */
-  .modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
-  }
-  
-  /* The Close Button */
-  .close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-  }
-  
-  .close:hover,
-  .close:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-  }
 
-  .bigArticle {
-    font-family: Arial, sans-serif; /* sets the font */
-    font-size: 16px; /* sets the font size */
-    line-height: 1.5; /* sets the line height */
-    text-align: justify; /* justifies the text */
-    padding: 20px; /* adds padding to the article */
-    margin: 0 auto; /* centers the article */
-    width: 80%; /* sets the width of the article */
-}
+
+ 
 
 h1 {
     font-size: 24px; /* sets the font size of the h1 */
     text-align: center; /* centers the h1 */
     margin-bottom: 20px; /* adds margin at the bottom of the h1 */
 }
+
+h2{} /* the man, the smith, the ledge link to twitter page*/
+h3{} /* importance of sustainable sustain ... link to article */
+h4{} /* latest articles header -- no link -- top of unordered list */
