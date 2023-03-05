@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(74, 110, 20);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+  }
+  
+  nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  nav a:hover {
+    background-color: rgb(161, 32, 32);
+  }
+  
+  nav li ul {
+    display: none; /* hide the sub-menu by default */
+    background-color: #f2f2f2; /* add a background color for the sub-menu */
+    padding: 10px; /* add some padding for the sub-menu */
+    border: 1px solid #ccc; /* add a border for the sub-menu */
+    position: absolute; /* position the sub-menu absolute */
+    z-index: 1; /* set a z-index to make sure the sub-menu is on top of other elements */
+  }
+  
+  nav li:hover ul { /* show the sub-menu when the parent menu is hovered */
+    display: block;
+  }
+  
+  nav li ul li { /* style the sub-menu items */
+    display: block; /* display the sub-menu items as block elements */
+    padding: 5px; /* add some padding for the sub-menu items */
+  }
+  
+  nav li ul li a { /* style the sub-menu links */
+    color: #333; /* set the text color for the sub-menu links */
+    text-decoration: none; /* remove the underline for the sub-menu links */
+  }
+  
+  nav li ul li a:hover { /* add a hover effect for the sub-menu links */
+    background-color: #ddd; /* change the background color of the sub-menu links when hovered */
+  }
+  
+  
+  #main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #main-content img {
+    max-width: 100%;
+  }
+  
+ 
+  
+  footer {
+    background-color: rgb(74, 110, 20);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .bigArticle {
+    font-family: Arial, sans-serif; /* sets the font */
+    font-size: 16px; /* sets the font size */
+    line-height: 1.5; /* sets the line height */
+    text-align: justify; /* justifies the text */
+    padding: 20px; /* adds padding to the article */
+    margin: 0 auto; /* centers the article */
+    width: 80%; /* sets the width of the article */
+}
+
+h1 {
+    font-size: 24px; /* sets the font size of the h1 */
+    text-align: center; /* centers the h1 */
+    margin-bottom: 20px; /* adds margin at the bottom of the h1 */
+}
