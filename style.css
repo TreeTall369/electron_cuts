@@ -1,36 +1,30 @@
 body {
+    background-image: url(paper.JPG);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
   }
   
-  header {
-    background-color: rgb(74, 110, 20);
-    color: rgb(255, 255, 255);
-    padding: 20px;
-  }
   
-  header h1 {
+  h1 {
     margin: 0;
     padding: 0;
+    border-bottom: black solid;
+    position:sticky;
   }
   
+  .title_img{
+    position: relative;
+    display:inline-flex;
+  }
+
   nav {
     float: right;
   }
   
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  nav li {
-    display: inline-block;
-  }
-  
   nav a {
-    color: rgb(255, 255, 255);
+    
+    color: rgb(12, 5, 5);
     text-decoration: none;
     padding: 10px 20px;
   }
@@ -77,6 +71,11 @@ body {
     max-width: 100%;
   }
   
+  .title_mount{
+   float:inline-start;
+   max-width: 50%;
+    
+  }
  
   
   footer {
