@@ -26,18 +26,16 @@ be created, some can be brought in from other projects
 
 FEATURE ARTICLE
 
-+'article title' is an img with transparent background
-+feature image is photo relating to article below
+    feature objectives:
+    +'article title' is an img with transparent background
+    +feature image is photo relating to article below
 
 ZINE STAND SECTION
 
 we want the bottom half of the page to have three - six articles that have images, titles, by
 lines, and intro text, like a news stand
 
-    first section objectives:
-    + need to tune up design fonts, border, background image or color
-
-    second section objectives:
+    section objectives:
     + create design grid for 3-6 articles
     + find images, file with article txt
     + test different design layouts
