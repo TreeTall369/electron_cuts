@@ -1,4 +1,4 @@
-# easydocs
+# electron_cuts
 
 this is intended as a suitable spine to hold together many artistic endeavors
 
