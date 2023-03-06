@@ -4,9 +4,11 @@ this is intended as a suitable spine to bind many artistic endeavors
 
 magazine. turducken. get in there.
 
-SITE CURRENTLY HAS: 8 PAGES
-+7 pages are articles, image walls
-+1 page is index -- primary page and master branch
+SITE
+
+    +8 total pages
+    +7 pages are articles, image walls
+    +1 page is index -- primary page and master branch
 
 TITLE
 
