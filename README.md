@@ -1,6 +1,6 @@
 # electron_cuts
 
-this is intended as a suitable spine to hold together many artistic endeavors
+this is intended as a suitable spine to bind many artistic endeavors
 
 magazine. turducken. get in there.
 
