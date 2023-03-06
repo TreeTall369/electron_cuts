@@ -7,7 +7,7 @@ magazine. turducken. get in there.
 SITE
 
     +8 total pages
-    +7 pages are articles, image walls
+    +7 pages are articles or image walls
     +1 page is index -- primary page and master branch
 
 TITLE
