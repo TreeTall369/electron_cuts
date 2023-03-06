@@ -4,7 +4,9 @@ this is intended as a suitable spine to bind many artistic endeavors
 
 magazine. turducken. get in there.
 
-This site currently has one page.
+SITE CURRENTLY HAS: 8 PAGES
++7 pages are articles, image walls
++1 page is index -- primary page and master branch
 
 TITLE
 
@@ -18,6 +20,7 @@ the catergories tab needs to be updated to other pages which will
 be created, some can be brought in from other projects
 
     primary objectives:
+    + spacing in menu needs repair
     + opacity on header section
     + each catergory found
     + blank landing page for each

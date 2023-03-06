@@ -11,7 +11,11 @@ body {
     margin: 0;
     padding: 0;
     border-bottom: black solid;
+    border-top: black solid;
+    border-radius: 15%;
     position:sticky;
+    background-color: limegreen;
+    opacity: 90%;
   }
   
   .title_img{
@@ -21,6 +25,7 @@ body {
 
   nav {
     float: right;
+    margin-top: 2.5%;
   }
   
   nav a {
@@ -64,9 +69,11 @@ body {
   
  
   #main-content img {
+    background-color: aquamarine;
     position: relative;
     max-width: 100%;
     border-radius: 15%;
+  
   }
   
   .title_mount{
