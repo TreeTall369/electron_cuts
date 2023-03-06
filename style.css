@@ -1,7 +1,8 @@
 body {
     background-image: url(paper.JPG);
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 0;
   }
   
@@ -61,18 +62,15 @@ body {
   }
   
   
-  #main-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
+ 
   #main-content img {
+    position: relative;
     max-width: 100%;
+    border-radius: 15%;
   }
   
   .title_mount{
-   float:inline-start;
+   
    max-width: 50%;
     
   }
